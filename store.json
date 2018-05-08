@@ -1,0 +1,130 @@
+{
+  "writers": [
+    {
+      "id": "ralph-waldo-emerson",
+      "name": "Ralph Waldo Emerson",
+      "born": "May 25, 1803",
+      "deceased": "April 27, 1882",
+      "description": "American essayist, lecturer, philosopher and poet who led the transcendentalist movement of the mid-19th century. He was seen as a champion of individualism and a prescient critic of the countervailing pressures of society, and he disseminated his thoughts through dozens of published essays and more than 1,500 public lectures across the United States.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ralph_Waldo_Emerson_ca1857_retouched.jpg"
+    },
+    {
+      "id": "friedrich-nietzsche",
+      "name": "Friedrich Nietzsche",
+      "born": "October 15, 1844",
+      "deceased": "August 25, 1900",
+      "description": "German philosopher, cultural critic, composer, poet, philologist, and Latin and Greek scholar. His thought enjoyed renewed popularity in the 1960s, and his ideas have since had a profound impact on 20th and early-21st century thinkers across philosophy—especially in schools of continental philosophy such as existentialism, postmodernism and post-structuralism—as well as art, literature, psychology, politics, and popular culture.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nietzsche187a.jpg"
+    },
+    {
+      "id": "carl-jung",
+      "name": "Carl Jung",
+      "born": "July 26, 1875",
+      "deceased": "June 6, 1961",
+      "description": "Swiss psychiatrist and psychoanalyst who founded analytical psychology. His work has been influential not only in psychiatry but also in anthropology, archaeology, literature, philosophy, and religious studies. He created some of the best known psychological concepts, including synchronicity, archetypal phenomena, the collective unconscious, the psychological complex, and extraversion and introversion.",
+      "image": "http://cdn1.vox-cdn.com/assets/4742750/93109109.jpg"
+    },
+    {
+      "id": "joseph-campbell",
+      "name": "Joseph Campbell",
+      "born": "March 26, 1904",
+      "deceased": "October 30, 1987",
+      "description": "American mythologist who worked in comparative mythology and comparative religion. His work covers many aspects of the human experience. Since the book's publication, Campbell's theory has been consciously applied by a wide variety of modern writers and artists. His philosophy has been summarized by his own often repeated phrase: \"Follow your bliss.\"",
+      "image": "http://ftftl.org/wp-content/uploads/2016/04/Joseph-Campbell.jpg"
+    },
+    {
+      "id": "osho",
+      "name": "Rajneesh (Osho)",
+      "born": "December 11, 1931",
+      "deceased": "January 19, 1990",
+      "description": "Indian spiritual guru, considered as a Godman and leader of the Rajneesh movement. During his lifetime he was viewed as a controversial mystic, guru, and spiritual teacher. He advocated a more open attitude towards human sexuality, earning him the nickname \"sex guru\" in the Indian and later international press, although this attitude became more acceptable with time.",
+      "image": "http://www.sannyas.wiki/images/5/5f/Osho_HD_083.jpg"
+    }
+  ],
+  "texts": [
+    {
+      "id": "self-reliance",
+      "writerId": "ralph-waldo-emerson",
+      "title": "Self-Reliance",
+      "description": "An essay that contains the most thorough statement of one of Emerson's recurrent themes: the need for each individual to avoid conformity and false consistency, and follow their own instincts and ideas.",
+      "published": 1841
+    },
+    {
+      "id": "nature",
+      "writerId": "ralph-waldo-emerson",
+      "title": "Nature",
+      "description": "An essay that puts forth the foundation of transcendentalism, a belief system that espouses a non-traditional appreciation of nature.",
+      "published": 1836
+    },
+    {
+      "id": "thus-spoke-zarathustra",
+      "writerId": "friedrich-nietzsche",
+      "title": "Thus Spoke Zarathustra",
+      "description": "A philosophical novel that deals with ideas such as the \"eternal recurrence of the same\", the parable on the \"death of God\", and the \"prophecy\" of the Übermensch.",
+      "published": 1883
+    },
+    {
+      "id": "beyond-good-and-evil",
+      "writerId": "friedrich-nietzsche",
+      "title": "Beyond Good and Evil",
+      "description": "A book that expands the ideas of his previous work, Thus Spoke Zarathustra, with a more critical and polemical approach.",
+      "published": 1886
+    },
+    {
+      "id": "on-the-genealogy-of-morality",
+      "writerId": "friedrich-nietzsche",
+      "title": "On the Genealogy of Morality",
+      "description": "",
+      "published": 1887
+    },
+    {
+      "id": "man-and-his-symbols",
+      "writerId": "carl-jung",
+      "title": "Man and His Symbols",
+      "description": "",
+      "published": 1964
+    },
+    {
+      "id": "the-archetypes-and-the-collective-unconscious",
+      "writerId": "carl-jung",
+      "title": "The Archetypes and the Collective Unconscious",
+      "description": "Part 1 of Volume 9 in The Collected Works of C. G. Jung, a series of books published by Princeton University Press in the U.S. and Routledge & Kegan Paul in the U.K.",
+      "published": 1981
+    },
+    {
+      "id": "memories-dreams-reflections",
+      "writerId": "carl-jung",
+      "title": "Memories, Dreams, Reflections",
+      "description": "An autobiographical book by Swiss psychologist Carl Jung and an associate, Aniela Jaffé.",
+      "published": 1962
+    },
+    {
+      "id": "the-hero-with-a-thousand-faces",
+      "writerId": "joseph-campbell",
+      "title": "The Hero with a Thousand Faces",
+      "description": "A work of comparative mythology by American mythologist Joseph Campbell, in which he discusses his theory of the journey of the archetypal hero found in world mythologies.",
+      "published": 1949
+    },
+    {
+      "id": "the-power-of-myth",
+      "writerId": "joseph-campbell",
+      "title": "The Power of Myth",
+      "description": "A book based on the 1988 PBS documentary Joseph Campbell and the Power of Myth.",
+      "published": 1988
+    },
+    {
+      "id": "the-book-of-secrets-112-meditations-to-discover-the-mystery-within",
+      "writerId": "osho",
+      "title": "The Book of Secrets: 112 Meditations to Discover the Mystery Within",
+      "description": "In this comprehensive and practical guide, the secrets of the ancient science of Tantra become available to a contemporary audience for the first time.",
+      "published": ""
+    },
+    {
+      "id": "love-freedom-aloneness-the-koan-of-relationships",
+      "writerId": "osho",
+      "title": "Love, Freedom, Aloneness: The Koan of Relationships",
+      "description": "",
+      "published": 2002
+    }
+  ]
+}
